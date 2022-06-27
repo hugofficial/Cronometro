@@ -1,4 +1,4 @@
-## Cronômetro - React Native
+## App Cronômetro - React Native
 <br/>
 
 <div align="center">
